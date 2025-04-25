@@ -1,0 +1,13 @@
+Array
+(
+    [id] => 59
+    [venue_id] => 1
+    [name] => Sample 4
+    [address] => sample3
+    [email] => sample@info.com
+    [contact] => 44444444444
+    [foodpax] => 380
+    [schedule] => -0001-11-30 00:00
+    [payment] => 0
+    [status] => 1
+)

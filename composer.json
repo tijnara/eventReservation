@@ -1,0 +1,21 @@
+{
+    "name": "reginagardenandrestaurant/event_management_system",
+    "description": "A simple event management system.",
+    "require": {
+        "php": "^8.0",
+        "reginagardenandrestaurant/eventman": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ReginaGardenandRestaurant\\EventMan\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/tijnara30/eventman"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
